@@ -1,6 +1,5 @@
 Problem statement
         - Based on given car features, predict the selling price of used car.
-        - required R' is 0.85 on both train and test.
 
 Dataset
         - The data is scrapped from cars24.com.
